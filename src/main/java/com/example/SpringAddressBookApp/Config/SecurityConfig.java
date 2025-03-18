@@ -1,4 +1,4 @@
-package com.example.SpringAddressBookApp.config;
+package com.example.SpringAddressBookApp.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
