@@ -2,8 +2,8 @@ package com.example.SpringAddressBookApp.service;
 
 
 import com.example.SpringAddressBookApp.dto.AuthUserDTO;
-import com.example.SpringAddressBookApp.dto.LoginResponseDto;
 import com.example.SpringAddressBookApp.dto.LoginDTO;
+import com.example.SpringAddressBookApp.dto.LoginResponseDto;
 import com.example.SpringAddressBookApp.model.AuthUser;
 import com.example.SpringAddressBookApp.repository.AuthUserRepository;
 import com.example.SpringAddressBookApp.util.JwtUtil;
